@@ -15,6 +15,10 @@
   height: 20px;
 }
 
+.header-menu__navbar {
+  color: white;
+}
+
 .footer {
   height: 100px;
   background-color: black;
