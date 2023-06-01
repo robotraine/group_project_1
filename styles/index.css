@@ -1,3 +1,18 @@
 .header {
   height: 50px;
 }
+
+.footer {
+  height: 100px;
+  background-color: black;
+}
+
+.footer-address {
+  height: 35px;
+  color: white;
+}
+
+.footer-menu {
+  height: 35px;
+  color: white;
+}
